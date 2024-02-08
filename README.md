@@ -27,6 +27,8 @@ The Vrinda Store Data Analysis project aims to provide valuable insights into th
 - Users can filter data by Month,Category and Channel to view personalized insights.
 - This interactivity enhances the user experience and provides more detailed information.
 
+**Dashboard** 
+
 **Insights from Data**
 
 - The highest sales and orders were recorded in the month of March.
