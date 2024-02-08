@@ -28,7 +28,7 @@ The Vrinda Store Data Analysis project aims to provide valuable insights into th
 - This interactivity enhances the user experience and provides more detailed information.
 
 **Dashboard** 
-![image](https://github.com/SaravanakumarVe/MS-Excel-Store-Data-Analysis/assets/157964968/4d9614a6-d2de-4c76-82c6-22b00d1140fd)
+
 
 
 **Insights from Data**
