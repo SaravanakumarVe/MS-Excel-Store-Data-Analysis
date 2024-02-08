@@ -18,7 +18,7 @@ The Vrinda Store Data Analysis project aims to provide valuable insights into th
 - Data Cleaning
 - Data Processing
 - Data Analysis
-- Dashboard Visualization
+- Data Visualization
 
 - I understood the data in the data sets and find the business problems.
 - I did data cleaning to remove duplicates and null values and made an Age group column from the Age column using the IF function.
